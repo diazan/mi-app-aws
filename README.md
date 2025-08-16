@@ -23,7 +23,7 @@ Cada push a la rama `main` activa automáticamente el pipeline de despliegue.
 La aplicación estará disponible en tu distribución de CloudFront después del despliegue.
 
 ## Autor
-Antonio Contreras Rodriguez
+Andres Diaz
 
 ## Licencia
 MIT
