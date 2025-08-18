@@ -13,7 +13,7 @@ Aplicación web desplegada en AWS usando:
 ├── styles.css       # Estilos
 ├── script.js        # Lógica JavaScript
 ├── buildspec.yml    # Configuración de CodeBuild
-└── README.md        # Documentación
+└── README.md        # Documentation
 ```
 
 ## Despliegue Automático
